@@ -1,0 +1,11 @@
+account self@jbennett.dev
+host 993
+port 465
+from self@jbennett.dev
+user self@jbennett.dev
+passwordeval "pass self@jbennett.dev"
+auth on
+tls on
+tls_trust_file	/etc/ssl/certs/ca-certificates.crt
+logfile /home/shadak/.local/state/msmtp/msmtp.log
+tls_starttls off

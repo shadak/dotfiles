@@ -1,0 +1,20 @@
+{
+    "workspace.library": [
+        "/home/shadak/.config/nvim",
+        "/etc/xdg/nvim",
+        "/home/shadak/.local/share/nvim/site",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/catppuccin",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/coq.artifacts",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/coq_nvim",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/usr/share/nvim/site",
+        "/usr/share/nvim/site/pack/packer/start/packer.nvim",
+        "/usr/share/nvim/runtime",
+        "/usr/lib/nvim",
+        "/home/shadak/.local/share/nvim/site/pack/packer/start/catppuccin/after",
+        "/usr/share/vim/vimfiles",
+        "${3rd}/luassert/library"
+    ]
+}
